@@ -23,8 +23,10 @@ The **Matt Mullenweg Insane-O-Meter** is a fun little dashboard widget that prov
 
 - **Recent Tweets**: The plugin fetches tweets from **Matt Mullenweg's X (formerly Twitter)** account, keeping you up to date with his thoughts, rants, and updates. It's all embedded directly in your dashboard, thanks to the Twitter widget integration.
 
-## **Preview**
-![Insane-O-Meter Screenshot](http://mnrdsgn2025.local/wp-content/uploads/2025/01/matt_post.jpg)
+## Screenshot
+Here’s what the plugin looks like in action:
+
+![Matt Mullenweg Insane-O-Meter Screenshot](screenshot.png)
 
 As you can see, the insanity level is represented with a colored progress bar, showing how “calm” or “unhinged” things are at any given moment. The tweets pull directly from Matt's X account, and the latest drama keeps you informed about what's happening in the WordPress world.
 
