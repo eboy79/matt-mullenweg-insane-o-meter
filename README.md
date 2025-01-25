@@ -23,7 +23,7 @@ The **Matt Mullenweg Insane-O-Meter** is a fun little dashboard widget that prov
 
 - **Recent Tweets**: The plugin fetches tweets from **Matt Mullenweg's X (formerly Twitter)** account, keeping you up to date with his thoughts, rants, and updates. It's all embedded directly in your dashboard, thanks to the Twitter widget integration.
 
-## Screenshot
+## Preview
 Here’s what the plugin looks like in action:
 
 ![Matt Mullenweg Insane-O-Meter Screenshot](screenshot.png)
