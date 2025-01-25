@@ -1,0 +1,6 @@
+# Ignore WordPress and system files
+*.log
+*.DS_Store
+node_modules/
+vendor/
+

@@ -1,0 +1,42 @@
+/* style.css for Matt Mullenweg Insane-O-Meter plugin */
+
+/* Basic styling for the plugin widget */
+.matt-insane-o-meter-widget {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.matt-insane-o-meter-widget h3 {
+    font-size: 24px;
+    color: #dc3545;
+    margin-bottom: 15px;
+}
+
+.matt-insane-o-meter-widget h4 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.matt-insane-o-meter-widget ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.matt-insane-o-meter-widget ul li {
+    margin-bottom: 10px;
+}
+
+.matt-insane-o-meter-widget .insanity-level {
+    color: red;
+}
+
+/* Style for the embedded Twitter timeline */
+.twitter-timeline {
+    margin-top: 20px;
+    border: none;
+    padding: 0;
+    width: 100%;
+}
